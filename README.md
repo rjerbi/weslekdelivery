@@ -1,6 +1,6 @@
 # Weslek - Laravel Delivery Website
 
-Weslek is a Laravel application for food delivery, allowing customers to place orders and track couriers in real-time.
+Weslek is a Laravel-based food delivery application that allows customers to place orders and view the availability of couriers in real-time.
 
 ## Features
 
@@ -12,8 +12,8 @@ Weslek is a Laravel application for food delivery, allowing customers to place o
 
 ## Installation and project running
 
-composer install
-php artisan key:generate
-php artisan migrate
-php artisan serve
+- composer install
+- php artisan key:generate
+- php artisan migrate
+- php artisan serve
 
